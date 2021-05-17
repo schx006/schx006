@@ -11,6 +11,12 @@ From `Sean Connery` to `Daniel Craig`!
 Although Sir Sherlock Holmes is a much better spy. 🥸
 
 
+# the Life, the Universe & Everything
+
+![42](img/Answer_to_Life.png "The ultimate answer")
+
+
+
 <!--
 **schx006/schx006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
