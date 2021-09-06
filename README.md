@@ -1,7 +1,7 @@
 # Hi there 👋
 
  ### 🤓 I like to write scripts in…
- * 🐚 Bash,
+ * 🐚 Bash, Zsh,
  * 🐪 Perl,
  * 🐍 Python,
  * 💎 Ruby…
