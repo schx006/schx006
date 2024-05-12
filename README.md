@@ -1,16 +1,3 @@
-# Hi there 👋
-
- ### 🤓 I like to write scripts in…
- * 🐚 Bash, Zsh,
- * 🐪 Perl,
- * 🐍 Python,
- * 💎 Ruby…
-
-### … and 📽 all the James Bond's saga.
-From `Sean Connery` to `Daniel Craig`!   
-Although Sir Sherlock Holmes is a much better spy. 🥸
-
-
 # the Life, the Universe & Everything
 
 ![42](img/Answer_to_Life.png "The ultimate answer")
